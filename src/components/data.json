@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Bootstrap Portfolio",
+    "image": "./components/images/Portfolio.png",
+    "description": "My Portfolio built using Bootstrap 4 Components",
+    "website": "https://nicholasbrink.github.io/Bootstrap-Portfolio",
+    "github": "https://github.com/Nicholasbrink/Bootstrap-Portfolio",
+    "longDescr": "This project was to showase all work done so far on the EdX Front End Developer Bootcamp. this section. I have included a nav bar, A Hero to introducve myself, a grid showcasing projects I've have been working on as well as a skills and about me setion. Lastly there is a contact section and footer."
+  },
+  {
+    "id": 2,
+    "name": "Console Finances",
+    "image": "./components/images/consoleFinances.png",
+    "description": "Javascript code for analyzing the financial records of a company.",
+    "website": "https://nicholasbrink.github.io/Console-Finances/",
+    "github": "https://github.com/Nicholasbrink/Console-Finances",
+    "longDescr": "This challenge I have created Javascript code for analyzing the financial records of a company."
+  },
+  {
+    "id": 3,
+    "name": "Web APIs: Code Quiz",
+    "image": "./components/images/codingQuiz.png",
+    "description": "Javascript built timed coding quiz with multiple-choice questions",
+    "website": "https://nicholasbrink.github.io/JavaScript-MultipleChoice-Quiz/",
+    "github": "https://github.com/Nicholasbrink/JavaScript-MultipleChoice-Quiz",
+    "longDescr": "This project was to build a timed coding quiz with multiple-choice questions. This app runs in the browser, and has feature dynamically updated HTML and CSS powered by JavaScript code. When the game ends, it will display their score and give the user the ability to save their initials and their score to the local storage."
+  },
+  {
+    "id": 4,
+    "name": "HTML Portfolio",
+    "image": "./components/images/htmlPortfolio.png",
+    "description": "My Portfolio of recent work built using HTML and CSS",
+    "website": "https://nicholasbrink.github.io/my-portfolio/",
+    "github": "https://github.com/Nicholasbrink/my-portfolio",
+    "longDescr": "This project was to showase all work done so far on the EdX Front End Developer Bootcamp. this section. I have included a nav bar, about me section, my work section as well as a contact footer. This is built using HTML and CSS styling"
+  },
+  {
+    "id": 5,
+    "name": "Work Day Scheduler",
+    "image": "./components/images/workDayScheduler.png",
+    "description": "Simple calendar application that allows a user to save events for each hour of the day",
+    "website": "https://nicholasbrink.github.io/Work-Day-Scheduler/",
+    "github": "https://github.com/Nicholasbrink/Work-Day-Scheduler",
+    "longDescr": "A simple calendar application that allows a user to save events for each hour of the day and is colour coded according past, present and future entries using Moment.js in the browser and save the event in local storage when the save button is clicked in that timeblock."
+  },
+  {
+    "id": 6,
+    "name": "Travel App",
+    "image": "./components/images/Travel-App.png",
+    "description": "A travel website built using HTML, CSS and Javascript",
+    "website": "https://nicholasbrink.github.io/Travel-App/",
+    "github": "https://github.com/Nicholasbrink/Travel-App",
+    "longDescr": "A travel website built using HTML, CSS and Javascript that displays images of a chosen city with added info on weather report, currency conversion as well as an interactive map."
+  }
+]

@@ -1,9 +1,11 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+// import {container, Row, Col} from 'react-bootstrap'
 import Contact from "./components/pages/contact";
 import Home from "./components/pages/Home";
-import Project from "./components/pages/project";
+import ProjectCard from "./components/pages/projectcard"
+import Projects from "./components/data.json";
 import Header from "./components/header";
 
 function App() {
@@ -17,7 +19,7 @@ function App() {
           {/* Define a default route that will render the Home component */}
           <Route path="/" element={<Home />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="/project" element={<Project />} />
+          <Route path="/projectcard" element={<Projects />} />
         </Routes>
       </div>
     </Router>
