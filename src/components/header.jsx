@@ -25,7 +25,7 @@ function Header() {
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="./projectgallery">
+                <a class="nav-link" href="./components/projectGallery">
                   Projects
                 </a>
               </li>
