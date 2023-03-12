@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Bootstrap Portfolio",
-    "image": "../public/images/Portfolio.png",
+    "image": "https://github.com/Nicholasbrink/Bootstrap-Portfolio/blob/main/images/Portfolio.png",
     "description": "My Portfolio built using Bootstrap 4 Components",
     "website": "https://nicholasbrink.github.io/Bootstrap-Portfolio",
     "github": "https://github.com/Nicholasbrink/Bootstrap-Portfolio",
