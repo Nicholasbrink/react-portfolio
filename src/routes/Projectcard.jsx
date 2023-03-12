@@ -10,19 +10,19 @@ function ProjectCard(props) {
       <div className="content">
         <ul>
           <li>
-            <strong>id: </strong> {id}
+            <strong>id: </strong> {props.id}
           </li>
           <li>
-            <strong>Project: </strong> {name}
+            <strong>Project: </strong> {props.name}
           </li>
           <li>
-            <strong>Description: </strong> {description}
+            <strong>Description: </strong> {props.description}
           </li>
           <li>
-            <strong>Website: </strong> {website}
+            <strong>Website: </strong> {props.website}
           </li>
           <li>
-            <strong>Github URL: </strong> {github}
+            <strong>Github URL: </strong> {props.github}
             <li>
               <strong>Image of Project: </strong> <img src={image} alt={name} />
             </li>
